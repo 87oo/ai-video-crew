@@ -30,4 +30,7 @@
 ## 致谢
 灵感来自 [苍何](https://mp.weixin.qq.com/s/zvFr25XDPORPVtYN4hS7Cw)的 AI 视频团队;渲染基于 [HyperFrames](https://github.com/heygen-com/hyperframes)(HeyGen 开源)。
 
+## License
+Apache License 2.0(与 HyperFrames 一致)—— 见 [LICENSE](LICENSE)。Copyright (c) 2026 87oo。
+
 > `ARK_API_KEY` 走环境变量,绝不进仓库。推 GitHub 前确认无 key 硬编码。
