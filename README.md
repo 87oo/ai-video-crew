@@ -32,5 +32,3 @@
 
 ## License
 Apache License 2.0(与 HyperFrames 一致)—— 见 [LICENSE](LICENSE)。Copyright (c) 2026 87oo。
-
-> `ARK_API_KEY` 走环境变量,绝不进仓库。推 GitHub 前确认无 key 硬编码。
